@@ -35,7 +35,9 @@ a:hover {
     transition: 1s;
     box-shadow: 20px 20px 30px #3D4FF3;
 }
-
+.logo{
+    border-radius: 100%;
+}
 /* header */
 #header {
     height: auto;
